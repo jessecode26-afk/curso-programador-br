@@ -14,3 +14,4 @@ let proprietario = "JESSÉ SILVA";
 console.log(
   ` Esses são os dados de registro do veículo: CARRO: ${carro}, MARCA DO CARRO É: ${marcaDeCarro} e o Proprietário é: ${proprietario}`,
 );
+/*<--=========================================================================--->*/
