@@ -37,5 +37,5 @@ Repositório atualizado constantemente conforme evolução nos estudos.
 ---
 
 ## 📎 Autor
-Jesse  
+Jesse Silva :)
 Desenvolvedor em formação
