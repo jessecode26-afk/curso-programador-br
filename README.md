@@ -17,6 +17,7 @@ Desenvolver uma base sólida em JavaScript, compreendendo desde os fundamentos d
 - Variáveis
 - Tipos de dados
 - Operadores
+- Condicionais 
 
 *(A lista será atualizada conforme avanço no curso.)*
 
